@@ -1,5 +1,6 @@
 # Blazing Dragon
 
+<a href="New_Event.md"> New e]Event</a>
 
 😎✌🏻歡迎大家😊
 
