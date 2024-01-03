@@ -1,6 +1,34 @@
 # Blazing Dragon
 
+
+😎✌🏻歡迎大家😊
+
+大家可以自由傾偈討論同做買賣
+搞拍賣/福袋活動就要交俾我搞😼 
+❌呢個群組冇咩硬性規定
+入得嚟嘅都係朋友☺️
+有咩PM傾返就可以
+
+我計劃緊搞實體舖，請大家多多支持👍😍
+
+入得嚟嘅都係第一批嘅熟客朋友
+我目標係希望全部都做到
+🇭🇰全港最平+最多優惠俾大家
+
+鋪頭地點會係西九龍🐲🎄💕🎁
+每個星期
+我會同各位朋友仔喺鑽石山搞一齊玩活動
+大家有時間都可以一齊參與☺️🎶
+
+<details>  
+<summary>**New event**</summary>
+|Date|Event Name|
+|---|---|
+|4/1|新福袋|
+|6/1|伊貝福袋|</details>
 <details>
+
+  
 <summary>面交/順豐/平郵表單</summary>
   
 [面交/順豐/平郵表單](https://docs.google.com/forms/d/e/1FAIpQLScQHE-lOkYurrTGFIdb7xwHBrHLp3p1HLrhLKfVVMjHLIAzcQ/viewform)
