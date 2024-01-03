@@ -32,9 +32,11 @@
 ‼️‼️面交需要在一星期內完成，否則要改為郵寄服務🤝
 
 或當棄單處理⛔️‼️‼️
-</details>
 
 收集電郵係為咗傳送返表單副本比大家keep record
+</details>
+
+
 <details>
 <summary>2024 年. 福袋第一彈</summary>
 
