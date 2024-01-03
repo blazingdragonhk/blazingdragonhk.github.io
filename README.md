@@ -4,7 +4,7 @@
 [面交/順豐/平郵表單](https://docs.google.com/forms/d/e/1FAIpQLScQHE-lOkYurrTGFIdb7xwHBrHLp3p1HLrhLKfVVMjHLIAzcQ/viewform)
 
 <details>
-<sumary>2024 年. 福袋第一彈</sumary>
+<summary>2024 年. 福袋第一彈</summary>
 
 價格：$350@1口
 
