@@ -21,12 +21,12 @@ Blazing Dragon目標係希望全部都做到
 |Date|Event Name|
 |---|---|
 |4/1|新福袋|
-|6/1|伊貝福袋|</details>
-<details>
+|6/1|伊貝福袋|
+</details>
 
-  
+
+<details>
 <summary>面交/順豐/平郵表單</summary>
-  
 [面交/順豐/平郵表單](https://docs.google.com/forms/d/e/1FAIpQLScQHE-lOkYurrTGFIdb7xwHBrHLp3p1HLrhLKfVVMjHLIAzcQ/viewform)
 
 逢星期六 2200 截表單🚫（是次表單6/1/2024 2200截止）
@@ -87,5 +87,4 @@ Blazing Dragon目標係希望全部都做到
 ➡️於4 - 11/1累積購入十抽新年福袋即能以優惠價$1000購sv4a+奇樹盒各一盒
 
 ![image](https://github.com/blazingdragonhk/blazingdragonhk.github.io/assets/155500927/afb81616-c438-4b34-a221-90cf3efd0c27)
-
 </details>
