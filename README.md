@@ -1,4 +1,4 @@
-# Welcome to Blazing Dragon
+# Blazing Dragon
 
 
 [面交/順豐/平郵表單](https://docs.google.com/forms/d/e/1FAIpQLScQHE-lOkYurrTGFIdb7xwHBrHLp3p1HLrhLKfVVMjHLIAzcQ/viewform)
