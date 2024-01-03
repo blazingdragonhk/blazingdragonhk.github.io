@@ -1,6 +1,5 @@
 # Blazing Dragon
 
-<a href="New_Event.md"> New e]Event</a>
 
 😎✌🏻歡迎大家😊
 
@@ -22,8 +21,8 @@ Blazing Dragon目標係希望全部都做到
 
 |Date|Event Name|
 |---|---|
-|4/1|新福袋|
-|6/1|伊貝福袋|
+|4/1|<a href="New_Event.md"> 新福袋</a>|
+|6/1|<a href="New_Event.md"> 伊貝福袋</a>|
 
 
 
