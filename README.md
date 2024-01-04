@@ -61,17 +61,17 @@ Join us every week in Diamond Hill for fun and engaging activities. Everyone is 
 
 
 
-
+<div style="background-color: rgba(255, 255, 255, 0.7); padding: 10px; border-radius: 5px;">
 <details>
 
-  <h2>表格</h2>
+  <summary><h2>表格</h2></summary>
     <ul>
         <li><a href="Google_form.md">面交/順豐/平郵表單</a></li>
     </ul>
     
 </details>
   
-
+</div>
 
 
 
