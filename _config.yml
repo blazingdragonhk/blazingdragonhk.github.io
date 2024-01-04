@@ -3,3 +3,6 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 gem "github-pages", group: :jekyll_plugins
+
+title: [火龍🔥🐲Blazing Dragon]
+description: [A short description of your site's purpose]
