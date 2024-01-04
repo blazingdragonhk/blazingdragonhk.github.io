@@ -1,5 +1,5 @@
 body {
-  background-image: url('https://github.com/blazingdragonhk/blazingdragonhk.github.io/assets/155500927/21cce696-0f4a-4dd1-a0b1-bda389c3a472'); /* Adjust the path based on your file structure */
+  background-image: url('/assets/images/Background.jpeg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
