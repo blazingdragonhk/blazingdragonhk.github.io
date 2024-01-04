@@ -4,11 +4,7 @@
 
 <div style="position: absolute; top: 0; left: 0; width: 100%; padding-top: 10px; background: rgba(255, 255, 255, 0.7); z-index: 1;">
   <img src="https://github.com/blazingdragonhk/blazingdragonhk.github.io/assets/155500927/ba487534-1ae2-48a1-a708-9e89f5f51c11" alt="Blazing Dragon Logo" width="100" style="float: right; margin-left: 10px; z-index: 2;">
-</div>
-
-<img src="https://github.com/blazingdragonhk/blazingdragonhk.github.io/assets/155500927/ba487534-1ae2-48a1-a708-9e89f5f51c11" alt="Blazing Dragon Logo" width="100" style="float: right; margin-left: 10px; z-index: 2;">
-
-# Blazing Dragon🔥🐲火龍
+  # Blazing Dragon🔥🐲火龍
 
 **Address:** Dragon Centre, Yen Chow St, Sham Shui Po
 
@@ -57,3 +53,8 @@ Join us every week in Diamond Hill for fun and engaging activities. Everyone is 
 ## 表格
 
 - [面交/順豐/平郵表單](Google_form.md)
+  
+</div>
+
+
+
