@@ -1,9 +1,29 @@
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-- jekyll-paginate
-- jekyll-sitemap
-- jekyll-gist
-- jekyll-feed
-- jekyll-include-cache
-
-gem "github-pages", group: :jekyll_plugins  
+header:
+  image: https://github.com/blazingdragonhk/blazingdragonhk.github.io/assets/155500927/ba487534-1ae2-48a1-a708-9e89f5f51c11
+  alt: image
+  width: 100
+  style: "float: right; margin-left: 10px;"
+title: "火龍🔥🐲Blazing Dragon 😎✌🏻歡迎大家😊"
+description: "Blazing Dragon目標係希望全部都做到 🇭🇰全港最平+最多優惠俾大家 鋪頭地點會係西九龍🐲🎄💕🎁 每個星期 我會同各位朋友仔喺鑽石山搞一齊玩活動 大家有時間都可以一齊參與☺️🎶"
+activities:
+  - date: "4/1"
+    name: "[2024 新年福袋 第一彈](Event1.md)"
+  - date: "6/1"
+    name: "[伊貝福袋](Event2.md)"
+  - date: "敬請期待"
+    name: "[2024 新年福袋 第二彈](Event3.md)"
+event_zone:
+  - name: "[2024 新年福袋 第一彈](Event1.md)"
+  - name: "[6/1伊貝福袋](Event2.md)"
+  - name: "[2024 新年福袋 第二彈](Event3.md)"
+card_box_zone:
+  - name: "[日版](Event1.md)"
+  - name: "[港版](Event1.md)"
+scattered_card_zone:
+  - name: "[AR卡](Event1.md)"
+  - name: "[SR卡](Event2.md)"
+  - name: "[SR全圖人](Event3.md)"
+  - name: "[SAR卡](Event3.md)"
+  - name: "[SAR全圖人](Event3.md)"
+table:
+  - name: "[面交/順豐/平郵表單](Google_form.md)"
