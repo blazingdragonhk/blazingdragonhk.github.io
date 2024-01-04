@@ -4,9 +4,13 @@
   <img src="https://github.com/blazingdragonhk/blazingdragonhk.github.io/assets/155500927/f66e134a-08c4-4133-8f28-1345fa4c5246" alt="Background Image" style="width: 100%; height: 100%; object-fit: cover;">
 </div>
 
-<div style="background-color: rgba(255, 255, 255, 0.5); padding: 10px;">
 
-  <img src="https://github.com/blazingdragonhk/blazingdragonhk.github.io/assets/155500927/ba487534-1ae2-48a1-a708-9e89f5f51c11" alt="Blazing Dragon Logo" width="100" style="float: right; margin-left: 10px; z-index: 2; background-color: rgba(255, 255, 255, 0.7);">
+<div style="position: relative;">
+  <div style="background: url('https://github.com/blazingdragonhk/blazingdragonhk.github.io/assets/155500927/f66e134a-08c4-4133-8f28-1345fa4c5246') center/cover; position: absolute; top: 0; left: 0; width: 100%; height: 100%; filter: blur(10px); z-index: -1;"></div>
+  
+  <div style="background-color: rgba(255, 255, 255, 0.5); padding: 10px; position: relative; z-index: 1;">
+
+     <img src="https://github.com/blazingdragonhk/blazingdragonhk.github.io/assets/155500927/ba487534-1ae2-48a1-a708-9e89f5f51c11" alt="Blazing Dragon Logo" width="100" style="float: right; margin-left: 10px; z-index: 2; background-color: rgba(255, 255, 255, 0.7);">
 
 # Blazing Dragon🔥🐲火龍
 
@@ -59,7 +63,12 @@ Join us every week in Diamond Hill for fun and engaging activities. Everyone is 
 
 - [面交/順豐/平郵表單](Google_form.md)
 
+  </div>
 </div>
+
+
+ 
+
 
 
 
