@@ -6,3 +6,5 @@ gem "github-pages", group: :jekyll_plugins
 
 title: [Blazing Dragon🔥🐲火龍]
 description: [地址：Dragon Centre, Yen Chow St, Sham Shui Po]
+
+styles: "/assets/css/custom.css"
