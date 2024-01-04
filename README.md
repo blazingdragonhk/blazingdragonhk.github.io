@@ -65,7 +65,7 @@
 
 <details>   
 
-<p>  </p>
+<h2>其他內容（請點擊以看更多）</h2>
   
   <summary><h2>活動專區</h2></summary>
 
