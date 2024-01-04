@@ -1,38 +1,5 @@
-remote_theme: jasonlong/cayman-theme
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: "Blazing Dragon Online Shop"
-description: "Your go-to place for amazing deals and activities!"
-
-# Optional: Add social media links to the footer
-social_links:
-  github: blazingdragonhk
-
-# Optional: Enable comments using Disqus
-disqus:
-  shortname: your_disqus_shortname
-
-# Optional: Google Analytics tracking code
-google_analytics: "UA-XXXXXXXXX-X"
-
-# Optional: Customize navigation links in the header
-header_links:
-  - title: Home
-    url: /
-
-# Optional: Configure the sidebar navigation links
-sidebar_links:
-  - title: About
-    url: /about/
-  - title: Contact
-    url: /contact/
-
-# Optional: Configure the footer navigation links
-footer_links:
-  - title: Privacy Policy
-    url: /privacy-policy/
-  - title: Terms of Service
-    url: /terms-of-service/
-
-# Optional: Additional CSS styles
-# You can create a file named "assets/css/style.css" and add your custom styles.
-# styles: "/assets/css/style.css"
+gem "github-pages", group: :jekyll_plugins
