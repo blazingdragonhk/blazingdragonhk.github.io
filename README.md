@@ -1,4 +1,4 @@
-# 火龍🔥🐲Blazing Dragon ![image](https://github.com/blazingdragonhk/blazingdragonhk.github.io/assets/155500927/ba487534-1ae2-48a1-a708-9e89f5f51c11)
+# 火龍🔥🐲Blazing Dragon <img src="https://github.com/blazingdragonhk/blazingdragonhk.github.io/assets/155500927/ba487534-1ae2-48a1-a708-9e89f5f51c11" alt="image" width="100" style="float: left; margin-right: 10px;">
 
 
 😎✌🏻歡迎大家😊
@@ -32,8 +32,8 @@ Blazing Dragon目標係希望全部都做到
 - [2024 新年福袋 第二彈](Event3.md)
 
 ## 卡盒專區
-- [AR卡](Event1.md)
-- 
+- [日版](Event1.md)
+- [港版](Event1.md)
 ## 散卡專區
 - [AR卡](Event1.md)
 - [SR卡](Event2.md)
