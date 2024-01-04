@@ -60,48 +60,27 @@ Join us every week in Diamond Hill for fun and engaging activities. Everyone is 
 - [面交/順豐/平郵表單](Google_form.md)
 
 
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blazing Dragon</title>
-</head>
-
-<body>
-
-    <h1>Blazing Dragon🔥🐲火龍</h1>
-
-    <p><strong>Address:</strong> Dragon Centre, Yen Chow St, Sham Shui Po</p>
-
-    <h2>Welcome! 😎✌🏻</h2>
-
-    <p>Welcome to Blazing Dragon</p>
-
-    <p>Blazing Dragon目標係希望全部都做到:</p>
-
-    <ul>
-        <li>🇭🇰全港最平</li>
-        <li>最多優惠俾大家$$</li>
-    </ul>
-
-    <h3>Weekly Activities</h3>
-
-    <p>每個星期我會同各位朋友仔喺鑽石山搞一齊玩活動大家有時間都可以一齊參與☺️🎶</p>
-
-    <p>Join us every week in Diamond Hill for fun and engaging activities. Everyone is welcome to participate! ☺️🎶</p>
-
-
- 
-
-
-</body>
-
-</html>
 
 <div style="background-color: rgba(255, 255, 255, 0.7); padding: 10px; border-radius: 5px;">
-    <h2>新活動</h2>
+ 
+  
+   <h1>Blazing Dragon🔥🐲火龍</h1>
+
+   <p><strong>Address:</strong> Dragon Centre, Yen Chow St, Sham Shui Po</p>
+
+  <h2>Welcome! 😎✌🏻</h2>
+
+   <p>Welcome to Blazing Dragon</p>
+
+   <p>Blazing Dragon目標係希望全部都做到:</p>
+ <h3>Weekly Activities</h3>
+
+   <p>每個星期我會同各位朋友仔喺鑽石山搞一齊玩活動大家有時間都可以一齊參與☺️🎶</p>
+
+   <p>Join us every week in Diamond Hill for fun and engaging activities. Everyone is welcome to participate! ☺️🎶</p>
+   
+  <h2>新活動</h2>
 
    <table>
        <thead>
