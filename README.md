@@ -50,7 +50,7 @@
         <tbody>
             <tr>
                 <td>4/1</td>
-                <td><a href="Event1.md">2024 新年福袋 第一彈</a></td>
+                <td><a href="Event1.html">2024 新年福袋 第一彈</a></td>
             </tr>
             <tr>
                 <td>6/1</td>
@@ -72,7 +72,7 @@
   <summary><h2>活動專區</h2></summary>
 
    <ul>
-        <li><a href="Event1.md">2024 新年福袋 第一彈</a></li>
+        <li><a href="Event1.html">2024 新年福袋 第一彈</a></li>
         <li><a href="Event2.md">6/1 伊貝福袋</a></li>
         <li><a href="Event3.md">2024 新年福袋 第二彈</a></li>
     </ul>
