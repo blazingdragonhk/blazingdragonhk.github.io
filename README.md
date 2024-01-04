@@ -24,7 +24,7 @@ Blazing Dragon目標係希望全部都做到
 |6/1|[伊貝福袋](Event2.md)|
 
 ## 活動專區
-- [4/1新福袋](New_Event.md)
+- [4/1新福袋](Event1.md)
 - [6/1伊貝福袋](Event2.md)
 - [面交/順豐/平郵表單](Google_form.md)
 
