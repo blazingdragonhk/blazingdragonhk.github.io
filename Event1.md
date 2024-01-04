@@ -1,5 +1,3 @@
-## 4/1新福袋
-
 ![image](https://github.com/blazingdragonhk/blazingdragonhk.github.io/assets/155500927/afb81616-c438-4b34-a221-90cf3efd0c27)
 
 2024 年. 福袋第一彈
