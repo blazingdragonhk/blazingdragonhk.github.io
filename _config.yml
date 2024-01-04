@@ -1,32 +1,47 @@
-remote_theme: michaeltieso/jekyll-theme-shopify
+remote_theme: mattvh/jekyll-theme-midnight
 
+plugins:
+  - jekyll-remote-theme
 
-header:
-  image: https://github.com/blazingdragonhk/blazingdragonhk.github.io/assets/155500927/ba487534-1ae2-48a1-a708-9e89f5f51c11
-  alt: image
-  width: 100
-  style: "float: right; margin-left: 10px;"
-title: "火龍🔥🐲Blazing Dragon 😎✌🏻歡迎大家😊"
-description: "Blazing Dragon目標係希望全部都做到 🇭🇰全港最平+最多優惠俾大家 鋪頭地點會係西九龍🐲🎄💕🎁 每個星期 我會同各位朋友仔喺鑽石山搞一齊玩活動 大家有時間都可以一齊參與☺️🎶"
-activities:
-  - date: "4/1"
-    name: "[2024 新年福袋 第一彈](Event1.md)"
-  - date: "6/1"
-    name: "[伊貝福袋](Event2.md)"
-  - date: "敬請期待"
-    name: "[2024 新年福袋 第二彈](Event3.md)"
-event_zone:
-  - name: "[2024 新年福袋 第一彈](Event1.md)"
-  - name: "[6/1伊貝福袋](Event2.md)"
-  - name: "[2024 新年福袋 第二彈](Event3.md)"
-card_box_zone:
-  - name: "[日版](Event1.md)"
-  - name: "[港版](Event1.md)"
-scattered_card_zone:
-  - name: "[AR卡](Event1.md)"
-  - name: "[SR卡](Event2.md)"
-  - name: "[SR全圖人](Event3.md)"
-  - name: "[SAR卡](Event3.md)"
-  - name: "[SAR全圖人](Event3.md)"
-table:
-  - name: "[面交/順豐/平郵表單](Google_form.md)"
+title: "Your Online Shop Title"
+description: "Welcome to our online shop! Explore our collection of amazing products."
+
+# Optional: Add social media links to the footer
+social_links:
+  github: blazingdragonhk
+  twitter: your_twitter_handle
+  facebook: your_facebook_page
+
+# Optional: Enable comments using Disqus
+disqus:
+  shortname: your_disqus_shortname
+
+# Optional: Google Analytics tracking code
+google_analytics: "UA-XXXXXXXXX-X"
+
+# Optional: Customize navigation links in the header
+header_links:
+  - title: Home
+    url: /
+
+# Optional: Configure the sidebar navigation links
+sidebar_links:
+  - title: Categories
+    children:
+      - title: Category 1
+        url: /category1/
+      - title: Category 2
+        url: /category2/
+  - title: Contact
+    url: /contact/
+
+# Optional: Configure the footer navigation links
+footer_links:
+  - title: Privacy Policy
+    url: /privacy-policy/
+  - title: Terms of Service
+    url: /terms-of-service/
+
+# Optional: Additional CSS styles
+# You can create a file named "assets/css/style.css" and add your custom styles.
+# styles: "/assets/css/style.css"
