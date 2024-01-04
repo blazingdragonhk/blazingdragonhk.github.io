@@ -1,5 +1,7 @@
 ## 4/1新福袋
 
+![image](https://github.com/blazingdragonhk/blazingdragonhk.github.io/assets/155500927/afb81616-c438-4b34-a221-90cf3efd0c27)
+
 2024 年. 福袋第一彈
 
 價格：$350@1口
@@ -23,8 +25,6 @@
 ➡️中AR卡即齊齊拆 未開原箱，送日文sv4a 閃色寶藏 ARS 抽
 
 ➡️於4 - 11/1累積購入十抽新年福袋即能以優惠價$1000購sv4a+奇樹盒各一盒
-
-![image](https://github.com/blazingdragonhk/blazingdragonhk.github.io/assets/155500927/afb81616-c438-4b34-a221-90cf3efd0c27)
 
 
 [HOME](README.md)
