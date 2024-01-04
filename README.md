@@ -18,6 +18,10 @@
    <h1>Blazing Dragon🔥🐲火龍</h1>
 
    <p><strong>Address:</strong> Dragon Centre, Yen Chow St, Sham Shui Po</p>
+   <p><strong>Facebook:</strong></p>
+   <p><strong>Instagram:</strong></p>
+   <p><strong>Phone Number:</strong></p>
+   <p><strong>Email Adress:</strong></p>
 
   <h2>Welcome! 😎✌🏻</h2>
 
