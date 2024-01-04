@@ -1,1 +1,8 @@
+body {
+  background-image: url(); /* Adjust the path based on your file structure */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* Optional: Fixed background */
+}
 
