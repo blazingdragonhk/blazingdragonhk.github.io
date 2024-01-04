@@ -12,3 +12,4 @@ $1180/口，共10口
   
 ![image](https://github.com/blazingdragonhk/blazingdragonhk.github.io/assets/155500927/0cccfdd6-cddc-4960-abde-6b4eeb503b73)
 
+[HOME](README.md)
