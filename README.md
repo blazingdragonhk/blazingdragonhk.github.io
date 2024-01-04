@@ -1,5 +1,11 @@
+
+
 <div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; overflow: hidden; z-index: -1; filter: blur(10px); background: rgba(255, 255, 255, 0.8);">
   <img src="https://github.com/blazingdragonhk/blazingdragonhk.github.io/assets/155500927/f66e134a-08c4-4133-8f28-1345fa4c5246" alt="Background Image" style="width: 100%; height: 100%; object-fit: cover;">
+</div>
+
+<div style="background-color: rgba(255, 255, 255, 0.5); padding: 10px;">
+  
 </div>
 
 
