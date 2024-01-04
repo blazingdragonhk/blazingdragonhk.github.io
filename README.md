@@ -2,8 +2,11 @@
   <img src="https://github.com/blazingdragonhk/blazingdragonhk.github.io/assets/155500927/f66e134a-08c4-4133-8f28-1345fa4c5246" alt="Background Image" style="width: 100%; height: 100%; object-fit: cover;">
 </div>
 
-<div style="position: relative; z-index: 1; background: rgba(255, 255, 255, 0.9); padding: 20px; border-radius: 10px;">
-  <img src="https://github.com/blazingdragonhk/blazingdragonhk.github.io/assets/155500927/ba487534-1ae2-48a1-a708-9e89f5f51c11" alt="Blazing Dragon Logo" width="100" style="float: right; margin-left: 10px; z-index: 1;">
+<div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; overflow: hidden; z-index: 0; background: rgba(255, 255, 255, 1);">
+  <!-- White overlay under the content -->
+</div>
+
+<img src="https://github.com/blazingdragonhk/blazingdragonhk.github.io/assets/155500927/ba487534-1ae2-48a1-a708-9e89f5f51c11" alt="Blazing Dragon Logo" width="100" style="float: right; margin-left: 10px; z-index: 1;">
 
 # Blazing Dragon🔥🐲火龍
 
@@ -54,4 +57,3 @@ Join us every week in Diamond Hill for fun and engaging activities. Everyone is 
 ## 表格
 
 - [面交/順豐/平郵表單](/Google_form.html)
-</div>
