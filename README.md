@@ -103,10 +103,10 @@ Join us every week in Diamond Hill for fun and engaging activities. Everyone is 
 <div style="background-color: rgba(255, 255, 255, 0.7); padding: 10px; border-radius: 5px;">
     <h2>新活動</h2>
 
-    <table>
-        <thead>
-            <tr>
-                <th>Date</th>
+   <table>
+       <thead>
+           <tr>
+               <th>Date</th>
                 <th>Event Name</th>
             </tr>
         </thead>
@@ -130,7 +130,7 @@ Join us every week in Diamond Hill for fun and engaging activities. Everyone is 
   
   <summary><h2>活動專區</h2></summary>
 
-    <ul>
+   <ul>
         <li><a href="Event1.md">2024 新年福袋 第一彈</a></li>
         <li><a href="Event2.md">6/1 伊貝福袋</a></li>
         <li><a href="Event3.md">2024 新年福袋 第二彈</a></li>
@@ -141,23 +141,23 @@ Join us every week in Diamond Hill for fun and engaging activities. Everyone is 
   
   <summary>  <h2>卡盒專區</h2></summary>
 
-    <ul>
+   <ul>
         <li><a href="Event1.md">日版</a></li>
         <li><a href="Event1.md">港版</a></li>
     </ul>
 </details>
 <details>
       <summary><h2>散卡專區</h2></summary>
-
-    <ul>
+<ul>
         <li><a href="Event1.md">AR卡</a></li>
         <li><a href="Event2.md">SR卡</a></li>
         <li><a href="Event3.md">SR全圖人</a></li>
         <li><a href="Event3.md">SAR卡</a></li>
         <li><a href="Event3.md">SAR全圖人</a></li>
-    </ul>
-
+    
+</ul>
 </details>
+
 <details>
 
   <summary><h2>表格</h2></summary>
