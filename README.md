@@ -105,10 +105,8 @@ $1180/口，共10口
 
 收集電郵係為咗傳送返表單副本比大家keep record
 
+
 <details>
-<summary>新活動</summary>
-  
-# Blazing Dragon
-  
+
+  # ABC
 </details>
-  
