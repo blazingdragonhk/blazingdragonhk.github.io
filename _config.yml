@@ -1,16 +1,11 @@
-remote_theme: mattvh/jekyll-theme-midnight
+remote_theme: jasonlong/cayman-theme
 
-plugins:
-  - jekyll-remote-theme
-
-title: "Your Online Shop Title"
-description: "Welcome to our online shop! Explore our collection of amazing products."
+title: "Blazing Dragon Online Shop"
+description: "Your go-to place for amazing deals and activities!"
 
 # Optional: Add social media links to the footer
 social_links:
   github: blazingdragonhk
-  twitter: your_twitter_handle
-  facebook: your_facebook_page
 
 # Optional: Enable comments using Disqus
 disqus:
@@ -26,12 +21,8 @@ header_links:
 
 # Optional: Configure the sidebar navigation links
 sidebar_links:
-  - title: Categories
-    children:
-      - title: Category 1
-        url: /category1/
-      - title: Category 2
-        url: /category2/
+  - title: About
+    url: /about/
   - title: Contact
     url: /contact/
 
