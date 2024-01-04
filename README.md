@@ -35,6 +35,7 @@ Blazing Dragon目標係希望全部都做到
 ## 卡盒專區
 - [日版](Event1.md)
 - [港版](Event1.md)
+- 
 ## 散卡專區
 - [AR卡](Event1.md)
 - [SR卡](Event2.md)
