@@ -1,5 +1,4 @@
 <div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; overflow: hidden; z-index: -1; filter: blur(10px); background: rgba(255, 255, 255, 0.8);">
-  <img src="https://github.com/blazingdragonhk/blazingdragonhk.github.io/assets/155500927/f66e134a-08c4-4133-8f28-1345fa4c5246" alt="Background Image" style="width: 100%; height: 100%; object-fit: cover;">
 </div>
 
 <div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; overflow: hidden; z-index: -1; background: rgba(255, 255, 255, 0.5);">
@@ -7,6 +6,7 @@
 </div>
 
 <img src="https://github.com/blazingdragonhk/blazingdragonhk.github.io/assets/155500927/ba487534-1ae2-48a1-a708-9e89f5f51c11" alt="Blazing Dragon Logo" width="100" style="float: right; margin-left: 10px; z-index: 2; background-color: rgba(255, 255, 255, 0.7);">
+
 
 # Blazing Dragon🔥🐲火龍
 
