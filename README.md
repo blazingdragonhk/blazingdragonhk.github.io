@@ -62,12 +62,12 @@
             </tr>
         </tbody>
     </table>
-<p>  </p>
+<p>每星期更新</p>
 
 
 
 
-<li><details>   
+<details>   
 
   <summary><h2>活動專區</h2></summary>
 
@@ -76,9 +76,9 @@
         <li><a href="Event2.md">6/1 伊貝福袋</a></li>
         <li><a href="Event3.md">2024 新年福袋 第二彈</a></li>
     </ul>
-</details></li>
+</details>
 
-<li><details>
+<details>
   
   <summary>  <h2>卡盒專區</h2></summary>
 
@@ -86,9 +86,9 @@
         <li><a href="Event1.md">日版</a></li>
         <li><a href="Event1.md">港版</a></li>
     </ul>
-</details></li>
+</details>
 
-<li><details>
+<details>
       <summary><h2>散卡專區</h2></summary>
 <ul>
         <li><a href="Event1.md">AR卡</a></li>
@@ -98,16 +98,16 @@
         <li><a href="Event3.md">SAR全圖人</a></li>
     
 </ul>
-</details></li>
+</details>
 
-<li><details>
+<details>
 
   <summary><h2>表格</h2></summary>
     <ul>
         <li><a href="Google_form.md">面交/順豐/平郵表單</a></li>
     </ul>
     
-</details></li>
+</details>
   
 </div>
 
