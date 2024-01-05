@@ -83,19 +83,19 @@
   <summary>  <h2>卡盒專區</h2></summary>
 
    <ul>
-        <li><a href="Event1.md">日版</a></li>
-        <li><a href="Event1.md">港版</a></li>
+        <li><a href="jp_card_box.html">日版</a></li>
+        <li><a href="hk_card_box.html">港版</a></li>
     </ul>
 </details>
 
 <details>
       <summary><h2>散卡專區</h2></summary>
 <ul>
-        <li><a href="Event1.md">AR卡</a></li>
-        <li><a href="Event2.md">SR卡</a></li>
-        <li><a href="Event3.md">SR全圖人</a></li>
-        <li><a href="Event3.md">SAR卡</a></li>
-        <li><a href="Event3.md">SAR全圖人</a></li>
+        <li><a href="ar_card.html">AR卡</a></li>
+        <li><a href="sr_card.html">SR卡</a></li>
+        <li><a href="sr_ppl_card.html">SR全圖人</a></li>
+        <li><a href="sar_card.html">SAR卡</a></li>
+        <li><a href="sar_ppl_card.html">SAR全圖人</a></li>
     
 </ul>
 </details>
@@ -104,7 +104,7 @@
 
   <summary><h2>表格</h2></summary>
     <ul>
-        <li><a href="Google_form.md">面交/順豐/平郵表單</a></li>
+        <li><a href="Google_form.html">面交/順豐/平郵表單</a></li>
     </ul>
     
 </details>
