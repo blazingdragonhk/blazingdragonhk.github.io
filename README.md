@@ -54,7 +54,7 @@
             </tr>
             <tr>
                 <td>6/1</td>
-                <td><a href="Event2.md">伊貝福袋</a></td>
+                <td><a href="Event2.html">伊貝福袋</a></td>
             </tr>
             <tr>
                 <td>TBA</td>
@@ -73,8 +73,8 @@
 
    <ul>
         <li><a href="Event1.html">2024 新年福袋 第一彈</a></li>
-        <li><a href="Event2.md">6/1 伊貝福袋</a></li>
-        <li><a href="Event3.md">2024 新年福袋 第二彈</a></li>
+        <li><a href="Event2.html">6/1 伊貝福袋</a></li>
+        <li><a href="Event3.html">2024 新年福袋 第二彈</a></li>
     </ul>
 </details>
 
